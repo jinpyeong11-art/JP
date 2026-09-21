@@ -7,6 +7,7 @@ using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using Autodesk.Revit.Attributes;
 using Autodesk.Revit.ApplicationServices;
+using System.Diagnostics;
 
 
 namespace revitapi2
@@ -16,8 +17,58 @@ namespace revitapi2
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
-            // 깃허브에 올리기 연습
-            TaskDialog.Show("Hello", "Hello, Revit API!");
+            //string result = "Hello, Revit";
+            //int count = 0;
+            //double sum = 0.0;
+            //bool isActive = true;
+
+            //List<string> list = new List<string>();
+            //list.Add("대한");
+            //list.Add("민국");  
+            //list.Add("만세");
+
+
+            for (int i = 0; i < 10; i += 2)
+            {
+                Debug.Print(i.ToString());
+            }
+
+            for (int i1 = 1; i1 < 10; i1 += 2)
+            {
+                Debug.Print(i1.ToString());
+            }
+
+
+            //List<string> list1 = new List<string>();
+            //list1.Add("대한AA");
+            //list1.Add("민국BB");
+            //list1.Add("만세CC");
+
+
+            //foreach (string a in list)
+            //{
+            //    foreach (string item in list1)
+            //    {
+            //        Debug.Print(item + " @ " + item1);
+            //    }
+            //}
+
+
+
+            //List<string> list1 = new List<string>();
+            //list1.Add("대한AA");
+            //list1.Add("민국BB");
+            //list1.Add("만세CC");
+
+            //string a = list[0] + list1[0];
+            //string b = list[1] + list1[1];
+            //string c = list[2] + list1[2];
+
+            //Debug.Print(a);
+            //Debug.Print(b);
+            //Debug.Print(c);
+
+
             return Result.Succeeded;
         }
     }

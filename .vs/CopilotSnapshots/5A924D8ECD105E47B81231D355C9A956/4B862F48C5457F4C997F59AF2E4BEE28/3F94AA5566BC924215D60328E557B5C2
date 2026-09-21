@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Autodesk.Revit.DB;
+using Autodesk.Revit.UI;
+using Autodesk.Revit.Attributes;
+using Autodesk.Revit.ApplicationServices;
+
+
+namespace revitapi2
+{
+    [Transaction(TransactionMode.Manual)]
+    public class Command : IExternalCommand
+    {
+        public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
+        {
+            string result = "Hello, Revit";
+            double sum = 0.0;
+            bool isactive = true;
+
+
+
+
+            return Result.Succeeded;
+        }
+    }
+}

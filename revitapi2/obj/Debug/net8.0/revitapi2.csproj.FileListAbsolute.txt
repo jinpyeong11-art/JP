@@ -11,3 +11,4 @@ C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net8.0\refint\revitapi2.dll
 C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net8.0\revitapi2.pdb
 C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net8.0\ref\revitapi2.dll
 C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net8.0\revitapi2.csproj.Up2Date
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net8.0\revitapi2.sourcelink.json
