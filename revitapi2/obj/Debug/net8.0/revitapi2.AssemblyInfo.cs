@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("revitapi2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d43d4a5d0d405e6ed5c1ff9d3726f8b89bdc0999")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ad6e27ba74842fbeb689f81f597d8f927dd096")]
 [assembly: System.Reflection.AssemblyProductAttribute("revitapi2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("revitapi2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
