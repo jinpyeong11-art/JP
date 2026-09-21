@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\revitapi2\revitapi2\bin\Debug\net10.0\revitapi2.deps.json
+C:\Users\Asus\Desktop\revitapi2\revitapi2\bin\Debug\net10.0\revitapi2.dll
+C:\Users\Asus\Desktop\revitapi2\revitapi2\bin\Debug\net10.0\revitapi2.pdb
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.dll
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\refint\revitapi2.dll
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.pdb
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\ref\revitapi2.dll
+C:\Users\Asus\Desktop\revitapi2\revitapi2\obj\Debug\net10.0\revitapi2.csproj.Up2Date
